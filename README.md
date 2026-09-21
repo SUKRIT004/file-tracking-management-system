@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📂 File Tracker
 
 > A modern, end-to-end workspace for tracking files, ownership, movement, and records—without losing the story behind the document.
