@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📂 File Tracker
 
 > A modern, end-to-end workspace for tracking files, ownership, movement, and records—without losing the story behind the document.
@@ -134,3 +135,7 @@ git diff --cached
 ---
 
 Built to make every file movement traceable, searchable, and accountable.
+=======
+# file-tracking-management-system
+Digitizing how organizations track, manage, and move physical files. Built with React, FastAPI &amp; PostgreSQL.
+>>>>>>> c785b0f649650650eeac5998f68b3f99d59936df
