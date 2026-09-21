@@ -1,0 +1,12 @@
+# Keep repository text files consistent across Windows, macOS, and Linux.
+* text=auto eol=lf
+
+# Common binary assets must not be altered by Git's text conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.pdf binary

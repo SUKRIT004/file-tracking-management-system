@@ -1,0 +1,47 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Dependencies and build outputs
+node_modules/
+**/node_modules/
+venv/
+**/venv/
+.venv/
+**/.venv/
+dist/
+build/
+
+# Python caches and test outputs
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Runtime-generated application data
+backend/uploads/
+backend/exports/
+backend/barcodes/
+*.sqlite3
+*.db
+
+# Local files and archives
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
